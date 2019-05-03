@@ -1,0 +1,16 @@
+{
+  "name": "leanr-js-linting",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc -p tsconfig.json",
+    "start": "node lib/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
