@@ -1,5 +1,5 @@
-import { CustomType, foo } from './foo'
-import { bar } from './bar'
+import { CustomType, foo } from "./foo"
+import { bar } from "./bar"
 
 const a: CustomType = 10
 const b: CustomType[] = [1, 3, 5, 7, 9]
