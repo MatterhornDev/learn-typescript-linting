@@ -9,6 +9,7 @@
   },
   "rules": {
     "no-console": "warn",
-    "@typescript-eslint/indent": ["error", 2]
+    "@typescript-eslint/indent": ["error", 2],
+    "semi": ["error", "never"]
   }
 }
