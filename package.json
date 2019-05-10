@@ -5,7 +5,7 @@
   "scripts": {
     "compile": "tsc -p tsconfig.json",
     "start": "node lib/index.js",
-    "lint": "eslint 'src/**/*.ts'"
+    "lint": "eslint src/**/*.ts"
   },
   "keywords": [ "typescript", "eslint", "standardjs", "prettier", "linting" ],
   "repository": {
