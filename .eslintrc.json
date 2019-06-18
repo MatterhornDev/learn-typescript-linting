@@ -5,7 +5,8 @@
   "env": { "node": true },
   "parserOptions": {
     "ecmaVersion": 5,
-    "sourceType": "module"
+    "sourceType": "module",
+    "project": "./tsconfig.json"
   },
   "rules": {
     "no-console": "warn",
